@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/n-pendulum/static/css/main.d1b05096.chunk.css",
+    "main.js": "/n-pendulum/static/js/main.5ad925f7.chunk.js",
+    "main.js.map": "/n-pendulum/static/js/main.5ad925f7.chunk.js.map",
+    "runtime-main.js": "/n-pendulum/static/js/runtime-main.90d30847.js",
+    "runtime-main.js.map": "/n-pendulum/static/js/runtime-main.90d30847.js.map",
+    "static/js/2.12b7068c.chunk.js": "/n-pendulum/static/js/2.12b7068c.chunk.js",
+    "static/js/2.12b7068c.chunk.js.map": "/n-pendulum/static/js/2.12b7068c.chunk.js.map",
+    "index.html": "/n-pendulum/index.html",
+    "precache-manifest.4aebc306822e9e805bbf5d3e815e6f31.js": "/n-pendulum/precache-manifest.4aebc306822e9e805bbf5d3e815e6f31.js",
+    "service-worker.js": "/n-pendulum/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/n-pendulum/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.12b7068c.chunk.js.LICENSE.txt": "/n-pendulum/static/js/2.12b7068c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/n-pendulum/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d30847.js",
+    "static/js/2.12b7068c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5ad925f7.chunk.js"
+  ]
+}
